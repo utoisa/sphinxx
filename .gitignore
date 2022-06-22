@@ -1,2 +1,2 @@
-.doctrees/
-_build/
++build/doctrees
++.DS_Store
